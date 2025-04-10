@@ -43,7 +43,7 @@ The dashboard leverages data from InformationIsBeautiful.net, combined with othe
 - Gov.uk – Official data on taxation, spending, and budget details.
 
 - Wikipedia.org – Supplementary context (e.g., GDP and financial history).
-- 
+  
 
 UK Gov Income and UK Gov Outcome arrived in a long format and were reshaped into a wide format to enable more effective analysis. 
 <table> <tr> <th style="text-align:center">UK Gov Income</th> <th style="text-align:center">UK Gov Outcome</th> </tr> <tr> <td align="center"><img src="https://github.com/user-attachments/assets/566dfc28-98fd-45f1-91d3-71b6e3f9b3c8" width="400"/></td> <td align="center"><img src="https://github.com/user-attachments/assets/7468a2a7-22f0-4358-88b7-c60569175a84" width="400"/></td> </tr> </table>
