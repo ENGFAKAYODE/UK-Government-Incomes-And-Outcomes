@@ -11,7 +11,7 @@
 - [DATA SOURCE & SUMMARY](#data-source-&-summary)
 - [DATA TOOLS](#data-tools)
 - [INSIGHTS](#insights)
-- [DASHBOARD LINK(#dashboard-link)
+- [DASHBOARD LINK}(#dashboard-link)
 - [CONCLUSION](#conclusion)
 - [RECOMMENDATION](#recommendation)
 
