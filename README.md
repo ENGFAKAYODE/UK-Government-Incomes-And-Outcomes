@@ -3,7 +3,19 @@
   <a href="https://public.tableau.com/app/profile/fakayode.emmanuel/viz/UKGovernmentSpendingOutcomes/UKGovernmentSpendingOutcomes">
     <img src="https://github.com/ENGFAKAYODE/UK-Government-Incomes-And-Outcomes/blob/main/UK%20Government%20Spending%20%26%20Outcomes%20_%20Tableau%20Public_page-0001.jpg" width="500" height="800">
   </a>
-    
+
+## TABLE OF CONTENT
+- [GENERAL OVERVIEW](#general-overview)
+- [OBJECTIVE](#objective)
+- [SKILLS DEMONSTRATED](#skills-demonstrated)
+- [DATA SOURCE & SUMMARY](#data-source-&-summary)
+- [DATA TOOLS](#data-tools)
+- [INSIGHTS](#insights)
+- [DASHBOARD LINK(#dashboard-link)
+- [CONCLUSION](#conclusion)
+- [RECOMMENDATION](#recommendation)
+
+
 ## GENERAL OVERVIEW
 This project explores how the UK government generates revenue and allocates public funds, with a focus on breaking down income sources and spending categories. By visualizing these dynamics, the project provides an insightful look into the nation's financial profile and how it directly impacts citizens.
 
@@ -16,21 +28,6 @@ The dashboard leverages data from InformationIsBeautiful.net, combined with othe
 - Illustrate how much the average UK taxpayer contributes annually and how those contributions are distributed across public services.
 
 - Highlight the implications of budget deficits and growing national debt.
-
-- Allow users to explore spending by category and country to better understand financial priorities.
-
-- Promote financial literacy by connecting wage deductions and tax implications to government budgeting.
-    
-## GENERAL OVERVIEW
-This project explores how the UK government generates revenue and allocates public funds, with a focus on breaking down income sources and spending categories. By visualizing these dynamics, the project provides an insightful look into the nation's financial profile and how it directly impacts citizens.
-
-The dashboard leverages data from InformationIsBeautiful.net, combined with other credible sources like Gov.uk and Wikipedia, to present a transparent and educational experience around government finance.
-
-## OBJECTIVES
-
-- Provide a clear breakdown of the UK government's revenue and expenditures.
-
-- Illustrate how much the average UK taxpayer contributes annually and how those contributions are distributed across public services.
 
 - Allow users to explore spending by category and country to better understand financial priorities.
 
