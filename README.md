@@ -11,7 +11,7 @@
 - [DATA SOURCE & SUMMARY](#data-source-&-summary)
 - [DATA TOOLS](#data-tools)
 - [INSIGHTS](#insights)
-- [DASHBOARD LINK}(#dashboard-link)
+- [DASHBOARD LINK](#dashboard-link)
 - [CONCLUSION](#conclusion)
 - [RECOMMENDATION](#recommendation)
 
@@ -66,7 +66,7 @@ I restructured the data into sequential columns and merged it with an additional
 ## DATA TOOLS
 
 - **Microsoft Excel:** Used for initial data storage, cleaning and basic analysis.
-- **Tableau:** Utilized for interactive data visualization
+- **Tableau:** Utilized for interactive data visualization.
 
 ## INSIGHTS
 UK Government Income: **£765B**
@@ -105,7 +105,7 @@ About 34% of the taxable income (£5,796) is deducted
 
 Net result: a 79% take-home pay totaling £21,804
 
-## Dashboard
+## Dashboard link
 https://public.tableau.com/app/profile/fakayode.emmanuel/viz/UKGovernmentSpendingOutcomes/UKGovernmentSpendingOutcomes
 
 ## Conclusion
